@@ -1,7 +1,4 @@
-حتماً 👍
-این هم یک **Description / README حرفه‌ای و مرتب** برای گذاشتن در GitHub (فارسی، مناسب پروژه بیوانفورماتیک و ربات تلگرام):
 
----
 
 ## UniProt Bioinformatics Telegram Bot 🧬🤖
 
